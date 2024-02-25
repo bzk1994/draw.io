@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T08:34:10.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6Tv6JWEAwjRTclWVZjiM" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T08:34:52.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gNGsY-TPdlkgsYyzIkBJ" version="23.1.5" type="github">
   <diagram name="第 1 页" id="QAJrKnAF4I0Qu2eBaVXO">
     <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,11 +165,20 @@
         <mxCell id="iMXLZTIKomu4NbF48HK7-12" value="Date Range" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="1150" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-14" target="iMXLZTIKomu4NbF48HK7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-14" value="Month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="684" y="1150" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-15" target="iMXLZTIKomu4NbF48HK7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-15" value="Month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="684" y="1210" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-16" target="iMXLZTIKomu4NbF48HK7-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-16" value="Month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="684" y="1090" width="70" height="40" as="geometry" />
@@ -178,16 +187,16 @@
           <mxGeometry x="670" y="1020" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-22" value="粒度重组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1020" width="70" height="30" as="geometry" />
+          <mxGeometry x="850" y="1020" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-23" value="Day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1210" width="70" height="40" as="geometry" />
+          <mxGeometry x="850" y="1210" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-24" value="Week" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1150" width="70" height="40" as="geometry" />
+          <mxGeometry x="850" y="1150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-25" value="Month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1090" width="70" height="40" as="geometry" />
+          <mxGeometry x="850" y="1090" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
