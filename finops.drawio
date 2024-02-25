@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T08:39:11.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YRf9vgJ3AGLebmbFwK_7" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T08:41:32.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-ytFo12I5iP4J0-NRdse" version="23.1.5" type="github">
   <diagram name="第 1 页" id="QAJrKnAF4I0Qu2eBaVXO">
-    <mxGraphModel dx="1509" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
         <mxCell id="iMXLZTIKomu4NbF48HK7-23" value="Day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1210" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iMXLZTIKomu4NbF48HK7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-24" target="iMXLZTIKomu4NbF48HK7-33">
+        <mxCell id="iMXLZTIKomu4NbF48HK7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-24" target="iMXLZTIKomu4NbF48HK7-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-24" value="Week" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -201,31 +201,32 @@
         <mxCell id="iMXLZTIKomu4NbF48HK7-25" value="Month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1090" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iMXLZTIKomu4NbF48HK7-33" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1037.5" y="1150" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="iMXLZTIKomu4NbF48HK7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-25" target="iMXLZTIKomu4NbF48HK7-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iMXLZTIKomu4NbF48HK7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-23" target="iMXLZTIKomu4NbF48HK7-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-39" target="iMXLZTIKomu4NbF48HK7-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-39" target="iMXLZTIKomu4NbF48HK7-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="1320" />
+              <mxPoint x="1120" y="1320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-39" value="User&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1141" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMXLZTIKomu4NbF48HK7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-39" target="iMXLZTIKomu4NbF48HK7-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="175" y="1310" />
-              <mxPoint x="1066" y="1310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iMXLZTIKomu4NbF48HK7-42" value="缓存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-43" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance_alt;" vertex="1" parent="1">
+          <mxGeometry x="987" y="1141" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-45" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1148" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="iMXLZTIKomu4NbF48HK7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iMXLZTIKomu4NbF48HK7-43" target="iMXLZTIKomu4NbF48HK7-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
