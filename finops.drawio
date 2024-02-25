@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T04:53:46.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qlnEzM2ZH9-VDw9qdp2J" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T08:20:21.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1k07lyJuLuzuYx8obtKZ" version="23.1.5" type="github">
   <diagram name="第 1 页" id="QAJrKnAF4I0Qu2eBaVXO">
     <mxGraphModel dx="1793" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,9 @@
         </mxCell>
         <mxCell id="-u_vqpkYlWYQU6NHMWpz-67" value="计提口径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="971" y="235" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-u_vqpkYlWYQU6NHMWpz-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
