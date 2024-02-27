@@ -1,31 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T15:43:34.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QcCltjWyq7LIkozmPTF9" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T16:10:08.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZZnpmnQVnwFT4tstvmDe" version="23.1.6" type="github">
   <diagram name="第 1 页" id="QAJrKnAF4I0Qu2eBaVXO">
     <mxGraphModel dx="2190" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-u_vqpkYlWYQU6NHMWpz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3Fw8Cve3jLayRroJCqeQ-4" target="3Fw8Cve3jLayRroJCqeQ-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3Fw8Cve3jLayRroJCqeQ-4" value="AWS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="839" width="76" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3Fw8Cve3jLayRroJCqeQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3Fw8Cve3jLayRroJCqeQ-5" target="3Fw8Cve3jLayRroJCqeQ-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="706" y="794" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3Fw8Cve3jLayRroJCqeQ-5" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="521" y="839" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="3Fw8Cve3jLayRroJCqeQ-10" value="OPS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="506" y="759" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-u_vqpkYlWYQU6NHMWpz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Fw8Cve3jLayRroJCqeQ-18" target="3Fw8Cve3jLayRroJCqeQ-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3Fw8Cve3jLayRroJCqeQ-18" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="626" y="839" width="90" height="35" as="geometry" />
+          <mxGeometry x="619" y="839" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3Fw8Cve3jLayRroJCqeQ-33" value="外部数据" style="rounded=1;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=ltr;align=center;labelBackgroundColor=default;fontSize=22;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="290" y="744" width="40" height="145" as="geometry" />
@@ -327,7 +310,7 @@
         <mxCell id="I-QZHHA_4obMPeOX13xf-45" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="720" y="2170" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I-QZHHA_4obMPeOX13xf-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;筛选&lt;br&gt;条件&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I-QZHHA_4obMPeOX13xf-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;筛选&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1650" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I-QZHHA_4obMPeOX13xf-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -356,6 +339,12 @@
         </mxCell>
         <mxCell id="I-QZHHA_4obMPeOX13xf-57" value="节点" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="706" y="1710" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I-QZHHA_4obMPeOX13xf-59" value="influxDB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="536" y="744" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Fw8Cve3jLayRroJCqeQ-5" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="839" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
